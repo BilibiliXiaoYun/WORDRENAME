@@ -87,7 +87,7 @@
 
 ## Example Interface / 示例界面
 
-![Interface Screenshot / 界面截图](./screenshot.png) <!-- Replace with your screenshot path / 替换为您界面截图的路径 -->
+![Interface Screenshot / 界面截图](./screenshot.png) 
 
 ---
 
